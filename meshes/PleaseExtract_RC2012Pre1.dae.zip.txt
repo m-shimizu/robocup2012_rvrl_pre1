@@ -1,0 +1,2 @@
+Because github has a file size limitation, RC2012Pre1.dae was compressed.
+Please extract RC2012Pre1.dae.zip before use it.
